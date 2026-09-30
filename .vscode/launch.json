@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Next.js: Debug Full-Stack",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm run dev"
+    },
+    {
+      "name": "Next.js: Debug Tests",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm test"
+    }
+  ]
+}
